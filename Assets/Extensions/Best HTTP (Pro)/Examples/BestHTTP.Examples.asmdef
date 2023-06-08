@@ -1,0 +1,14 @@
+{
+    "name": "BestHTTP.Examples",
+    "references": [
+        "GUID:e6f890672e9f4471bb63206b3b5ca155"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
